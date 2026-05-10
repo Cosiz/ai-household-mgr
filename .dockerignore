@@ -6,8 +6,5 @@ node_modules
 .env
 .env.*
 !.env.example
-tsconfig.*
-tailwind.config.js
-postcss.config.js
 eslint.config.mjs
 *.tsbuildinfo
